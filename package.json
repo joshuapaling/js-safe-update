@@ -1,0 +1,14 @@
+{
+	"name": "js-safe-update",
+	"version": "0.0.1",
+	"description": "Safely update your npm / yarn packages, one commit at a time.",
+	"main": "index.js",
+	"author": "Joshua Paling <joshua.paling@gmail.com> (http://joshuapaling.com/)",
+	"license": "MIT",
+	"bin": {
+		"js_safe_update": "./index.js"
+	},
+	"devDependencies": {
+		"prettier": "1.10.2"
+	}
+}
