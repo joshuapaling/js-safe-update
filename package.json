@@ -8,7 +8,14 @@
 	"bin": {
 		"js_safe_update": "./index.js"
 	},
+	"scripts": {
+		"test": "jest"
+	},
 	"devDependencies": {
+		"jest": "22.1.2",
 		"prettier": "1.10.2"
+	},
+	"dependencies": {
+		"chalk": "2.3.0"
 	}
 }
