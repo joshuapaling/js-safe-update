@@ -1,5 +1,5 @@
 // This module runs `yarn outdated` and parses the output
-// into a workable data structure in Ruby.
+// into a workable data structure in Javascript.
 const ChildProcess = require('child_process');
 
 function parseSingleLine(line) {
